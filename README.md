@@ -1,2 +1,2 @@
 # OpnSrcPrjct
-Added new repo
+Added new repo for opensource projects
